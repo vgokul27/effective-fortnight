@@ -1,1 +1,1 @@
-# effective-fortnight !
+# effective-fortnight
